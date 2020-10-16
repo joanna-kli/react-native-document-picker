@@ -79,6 +79,7 @@ const Types = {
     pdf: 'application/pdf',
     video: 'video/*',
     zip: 'application/zip',
+    xml: 'application/xml',
   },
   utis: {
     allFiles: 'public.content',
@@ -89,6 +90,7 @@ const Types = {
     pdf: 'com.adobe.pdf',
     video: 'public.movie',
     zip: 'public.zip-archive',
+    xml: 'public.xml',
   },
   extensions: {
     allFiles: '*',
@@ -100,6 +102,7 @@ const Types = {
     pdf: '.pdf',
     video: '.mp4',
     zip: '.zip .gz',
+    xml: '.xml',
   },
 };
 
